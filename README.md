@@ -1,1 +1,1 @@
-# React-based "Hello World" programm
+# React "Hello World" programm
